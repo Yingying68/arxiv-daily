@@ -23,16 +23,18 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 # topics: task/technique/dataset...
 keywords:
-    "Phase Change Materials": 
-        filters: -shape-stable phase change material
-                 -Phase change material
+  "Phase Change Materials":
+    filters:
+      - phase change material
+      - shape-stable phase change material
+  "Composite Materials":
+    filters:
+      - phase change composite material
+      - polyurethane phase change film
+  "Temperature-Responsive Systems":
+    filters:
+      - temperature-responsive fluorescence
+      - thermochromic
 
-    "Temperature-Responsive Systems":
-        filters:-Temperature-responsive fluorescence
-                -Thermochromic
-             
-    "Composite Materials":
-        filters: -phase change composite materials
-                 -polyurethane phase change film
-                
+
     
