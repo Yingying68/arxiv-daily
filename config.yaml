@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "lidq92"
+user_name: "Yingying68"
 repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
@@ -23,42 +23,23 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 # topics: task/technique/dataset...
 keywords:
-    "Point Cloud Compression": 
-        filters: ["Point Cloud Compression", 
-                  "Point Cloud Coding", 
-                  "Point Cloud Upsampling", 
-                  "Point Cloud Geometry Compression",
-                  "Point Cloud Geometry Coding",
-                  "Point Cloud Super Resolution",
-                  "Point Cloud Interpolation",
-                  "Point Cloud Attribute Compression",
-                  "Point Cloud Attribute Coding"]
-    "Compression":
-        filters: ["Compression", 
-                  "Image Compression",
-                  "Video Compression",
-                  "Data Compression",
-                  "Neural Compression",
-                  "Network Compression",
-                  "Image Coding",
-                  "Video Coding"]
-    "Quality Assessment":
-        filters: ["Perceptual Quality",
-                  "Quality Assessment",
-                  "Visual Quality",
-                  "Image Quality",
-                  "Video Quality",
-                  "Quality Evaluation",
-                  "Quality Estimation",
-                  "Quality Measurement"]
-    "Super Resolution":
-        filters: ["Super Resolution", 
-                  "Super-Resolution",
-                  "Upsampling",
-                  "Interpolation"]
-    "Remote Sensing":
-        filters: ["Remote Sensing", 
-                  "Hyperspectral", 
-                  "Multispectral", 
-                  "LiDAR",
-                  "Satellite"]
+    "Phase Change Materials": 
+        filters: ["Thermal management",
+                  "Flexible thermal management",
+                  "Phase change thermal management"
+                 ]
+    "Thermal Management":
+        filters: ["Thermal management",
+                  "Flexible thermal management",
+                  "Phase change thermal management"
+                 ]
+    "Temperature-Responsive Systems":
+        filters: ["Temperature-responsive systems",
+                  "Temperature-responsive fluorescence",
+                  "Thermochromic warning systems"
+                  ]
+    "Multifunctional Composite Materials":
+        filters: ["Multifunctional composite materials",
+                  "Flexible composite films"
+                  "Phase change composite materials"]
+    
