@@ -5,7 +5,7 @@ repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 20
+max_results: 10
 
 publish_readme: True
 publish_gitpage: True
@@ -24,11 +24,6 @@ md_wechat_path: './docs/wechat.md'
 # topics: task/technique/dataset...
 keywords:
     "Phase Change Materials": 
-        filters: ["Thermal management",
-                  "Flexible thermal management",
-                  "Phase change thermal management"
-                 ]
-    "Thermal Management":
         filters: ["Thermal management",
                   "Flexible thermal management",
                   "Phase change thermal management"
