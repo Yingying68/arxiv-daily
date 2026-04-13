@@ -24,18 +24,18 @@ md_wechat_path: './docs/wechat.md'
 # topics: task/technique/dataset...
 keywords:
     "Phase Change Materials": 
-        filters: ["Thermal management",
-                  "Flexible thermal management",
-                  "Phase change thermal management"
+        filters: ['"shape-stable phase change material"',
+                  '"Flexible thermal management"',
+                  '"Phase change material"'
                  ]
     "Temperature-Responsive Systems":
-        filters: ["Temperature-responsive systems",
-                  "Temperature-responsive fluorescence",
-                  "Thermochromic warning systems"
+        filters: ['"Temperature-responsive systems"',
+                  '"Temperature-responsive fluorescence"',
+                  '"Thermochromic"'
                   ]
-    "Multifunctional Composite Materials":
-        filters: ["Multifunctional composite materials",
-                  "Flexible composite films",
-                  "Phase change composite materials"
+    "Composite Materials":
+        filters: ['"phase change composite materials"',
+                  '"Flexible composite films"',
+                  '"polyurethane phase change film"'
                   ]
     
